@@ -17,7 +17,7 @@ require (
 	github.com/operator-framework/java-operator-plugins v0.1.0
 	github.com/operator-framework/operator-lib v0.6.0
 	github.com/operator-framework/operator-registry v1.17.4
-	github.com/prometheus/client_golang v1.11.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/prometheus/client_model v0.2.0
 	github.com/sergi/go-diff v1.1.0
 	github.com/sirupsen/logrus v1.8.1
